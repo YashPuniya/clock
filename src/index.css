@@ -1,0 +1,19 @@
+body{
+    background-image: url(assets/background.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+.clock-container{
+margin-top: 290px;
+backdrop-filter: blur(2px);
+}
+.clock{
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-shadow: 5px 5px 5px black;
+}
